@@ -1,1 +1,1 @@
-# front-end-course
+# Front end course
