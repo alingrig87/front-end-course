@@ -7,7 +7,7 @@ Welcome to the course! This repository is organized into two main modules: **Web
 
 ### 01_Client_Server_Model
 
-- [Client-Server Model] (01_Web_Fundamentals/01_Client_Server_Model/README.md)
+- [Client-Server Model](01_Web_Fundamentals/01_Client_Server_Model/README.md)
 - [Interview Questions](01_Web_Fundamentals/01_Client_Server_Model/interview_questions.md)
 - [Answers](01_Web_Fundamentals/01_Client_Server_Model/answers.md)
 
