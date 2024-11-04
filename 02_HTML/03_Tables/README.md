@@ -1,4 +1,4 @@
-# HTML Tables Guide
+# HTML Tables 
 
 Tables in HTML allow you to present data in rows and columns, providing a clear and organized structure for information. Here, you’ll find both simple and advanced examples, including the use of `colspan`, `rowspan`, and complex table structures.
 
